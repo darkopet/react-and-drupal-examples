@@ -1,7 +1,12 @@
 uuid: 0a102ad7-d88c-4a6c-b550-46db4187a7b6
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  config:
+    - node.type.article
+  module:
+    - node
+    - simple_oauth
 id: oauth
 label: OAUTH
 weight: 3

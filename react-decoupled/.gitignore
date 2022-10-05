@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#development mode source maps and debugging info
+web/themes/react_example_theme/js/dist_dev/**

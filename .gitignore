@@ -52,6 +52,8 @@
 /drupal/web/robots.txt
 /drupal/web/update.php
 /drupal/web/web.config
+#development mode source maps and debugging info
+/drupal/web/themes/react_example_theme/js/dist_dev/*
 
 # Ignore files included by composer
 /drupal/vendor
