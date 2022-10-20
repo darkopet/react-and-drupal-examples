@@ -1,0 +1,8 @@
+uuid: 921cd47e-c1a4-4e50-8245-a0e129648cbe
+langcode: en
+status: true
+dependencies: {  }
+name: 'Yoga type'
+vid: yoga_type
+description: 'Choose what type of yoga you need.'
+weight: 0
